@@ -1,0 +1,13 @@
+tn\iit\glid2\controller\DisconnectController.class
+tn\iit\glid2\DAO\IUserDao.class
+tn\iit\glid2\view\AuthView.class
+tn\iit\glid2\view\HomeView.class
+tn\iit\glid2\view\InscriptionView.class
+tn\iit\glid2\controller\RemoveServlet.class
+tn\iit\glid2\controller\UpdateServlet.class
+tn\iit\glid2\model\Utilisateur.class
+tn\iit\glid2\util\JDBCUtil.class
+tn\iit\glid2\DAO\UserDAO.class
+tn\iit\glid2\controller\AuthController.class
+tn\iit\glid2\controller\InscriptionController.class
+tn\iit\glid2\model\Error.class
